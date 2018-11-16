@@ -1,6 +1,6 @@
 locale: "en-US"
 title: sh-sida Works
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "https://sanghwanan.github.io" # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog/
 google_analytics_key: ""
 
