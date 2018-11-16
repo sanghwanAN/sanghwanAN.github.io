@@ -1,4 +1,4 @@
-# Strata Reloaded
+# 지킬테마 사용
 
 Simple, clean personal blogging template for Jekyll based on Strata by HTML5 UP.
 
