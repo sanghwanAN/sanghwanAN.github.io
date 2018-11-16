@@ -1,0 +1,26 @@
+---
+layout: post
+title: EBS 라디오
+date: 2017-07-13T14:37:44.000Z
+categories: update
+---
+
+<img src="/images/fulls/ebs_radio.jpg" class="fit image">
+사이트 바로가기 :   <a href="http://www.ebs.co.kr/radio/home" target="blank" class="go_link">ebs 라디오</a>
+
+Role : Responsive web, Web standard, Cross Browsing
+
+Technology Used : HTML5, CSS/CSS3, JavaScript, jQuery
+
+Date :  2016.05 ~ 2016.07
+
+EBS tv 다시보기와 EBS 라디오 카테고리를 같은 시기에 함께 작업 하였습니다.
+처음 반응형 웹 코딩을 하기전에 브라우저 대응은 어디 부터 할건지에 대해서 고민을 많이 했었습니다.
+
+EBS는 IE7,8 사용자도 많아서 IE 7,8을 버릴 수 없는 상황 이였으나, 굳이 ie 7,8브라우저 까지 반응형으로 코딩할 이유는 없었습니다.
+사용자는 스마트폰, 태블릿으로 모바일 화면을 보기 때문에 굳이, PC 화면에서 ie7,8 브라우저를 줄이면서 보는 사용자는 없기 때문입니다.
+또 ie 7,8 브라우저까지 반응형으로 대응을 하게 되면 크로스 브라우징 이슈로 작업시간도 더 길어 질 뿐만 아니라, 사용할 수 있는 css property도 제한적이기 때문에 ie7,8 브라우저는 980PX 기본 시안만 대응하도록 하고 그외 브라우저는 반응형으로 대응을 하기로 하였고 또한, CSS3로 표현이 가능한 디자인 요소(radius,gradiant)들은 CSS로 처리 하기로 하였으며, css3가 적용 되지 않는 ie7,8브라우저는 무시하도록 사전에 기획 및 고객사와 협의를 한 후 작업을 진행 하였습니다.
+
+기존 PC 사이트와 모바일 사이트의 컨텐츠들을 반응협 웹으로 리뉴얼 하는 작업이기 때문에 동일한 컨텐츠가 PC와 모바일 레이아웃이 달라 코딩하는데 있어서 어려움이 있었습니다.
+
+이런부분들은 기획 및 개발자와 협의 하여 레이아웃을 통일을 하거나 각 각 따로 컨텐츠들을 모바일 일때 와 pc 일때 display: none,block 처리를 하였는데, 이런 부분들은 조금 아쉬움이 남았습니다.
