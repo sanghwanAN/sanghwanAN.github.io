@@ -6,7 +6,7 @@ categories: update
 ---
 
 <img src="/images/fulls/doosan_admin.jpg" class="fit image">
-사이트 바로가기 :   <a href="http://pt.frameout.com/doosan-admin/guide/template.html" target="blank" class="go_link">DOOSAN E-commerce  admin guide</a>
+사이트 바로가기 :  <a href="#" title="비공개입니다." target="blank" class="go_link">DOOSAN E-commerce  admin guide</a>
 
 Role : Web standard, Cross Browsing
 
