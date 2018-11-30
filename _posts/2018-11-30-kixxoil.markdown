@@ -1,12 +1,12 @@
 ---
 layout: post
-title: gs 윤활유
+title: GS kixx
 date: 2018-11-30T14:37:44.000Z
 categories: update
 ---
 
 <img src="/images/fulls/kixxoil.jpg" class="fit image"> 
-사이트 바로가기 :   <a href="https://www.kixxoil.com" target="blank" class="go_link">gs 윤활유</a>
+사이트 바로가기 :   <a href="https://www.kixxoil.com" target="blank" class="go_link">GS kixx</a>
 
 Role : 서브페이지 코딩
 
