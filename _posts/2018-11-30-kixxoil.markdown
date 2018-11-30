@@ -1,0 +1,22 @@
+---
+layout: post
+title: gs 윤활유
+date: 2018-11-30T14:37:44.000Z
+categories: update
+---
+
+<img src="/images/fulls/kixxoil.jpg" class="fit image"> 
+사이트 바로가기 :   <a href="https://www.kixxoil.com" target="blank" class="go_link">gs 윤활유</a>
+
+Role : 서브페이지 코딩
+
+Technology Used : 반응형 웹, Web standard, Cross Browsing, HTML5, CSS/CSS3, JavaScript, jQuery, sass, gulp
+
+Date :  2018.08 ~ 2018.10
+
+퍼블리셔는 총 저 포함 2명이서 작업하였고, 퍼블리셔 PL 보다 일주일 먼저 제가 투입이 되어, 먼저 프로젝트 진행 상황에 대하여 이야기를 듣고 작업 준비를 하였습니다.
+
+저의 포지션은 퍼블 PL이 가이드를 제작 후 그 가이드를 활용하여 메인 페이지를 제외 한 전 페이지를 작업을 진행 하였고 10월 말까지 페이지 코딩은 완료 하여 먼저 철수 하였습니다.
+
+항상 혼자 작업을 하다 처음으로 2명이상에서 작업을 하였는데 작업을 하면서 느낀점은 모르는 사람들과 협업을 하게되면 고려 해야될 점들을 알게 된 프로젝트 였으며, 리더가 프로젝트에 관련된 가이드 및 진행에 대해서 팀원과 이야기를 하지 않고 리드를 하지 않으면 안좋게 된 다는것은 느끼게  해주었고 다음 내가 프로젝트 리더로 일을 하게 된다면 이렇게 하면 안된 다는 것을 절실히 알게 된 프로젝트 였습니다. 
+
