@@ -6,7 +6,7 @@ categories: update
 ---
 
 <img src="/images/fulls/posco_product.jpg" class="fit image"> 
-사이트 바로가기 :   <a href="#" target="blank" class="go_link" title="오픈예정">posco 제품 사이트 - 3월 28일 오픈예정</a>
+사이트 바로가기 :   <a href="http://product.posco.com/homepage/product/kor/jsp/s91m0000001i.jsp" target="blank" class="go_link" title="오픈예정">posco 제품 사이트</a>
 
 Role : 관리자 페이지 (전체) 담당 및 프론트 페이지 일부 지원
 
