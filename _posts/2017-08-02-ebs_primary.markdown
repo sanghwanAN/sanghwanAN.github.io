@@ -1,6 +1,6 @@
 ---
 layout: post
-title: EBS 초등
+title: <strong>[반응형 리뉴얼]</strong> EBS 초등 사이트
 date: 2017-08-02T14:37:44.000Z
 categories: update
 ---

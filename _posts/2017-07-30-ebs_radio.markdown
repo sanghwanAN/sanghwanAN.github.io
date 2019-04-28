@@ -1,6 +1,6 @@
 ---
 layout: post
-title: EBS 라디오
+title: <strong>[반응형 리뉴얼]</strong> EBS 라디오 
 date: 2017-07-13T14:37:44.000Z
 categories: update
 ---

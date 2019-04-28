@@ -1,6 +1,6 @@
 ---
 layout: post
-title: EBS TV
+title: <strong>[반응형 리뉴얼]</strong> EBS TV
 date: 2017-07-12T14:37:44.000Z
 categories: update
 ---

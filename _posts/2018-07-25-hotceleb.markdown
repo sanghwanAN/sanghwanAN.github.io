@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hotceleb
+title: <strong>[반응형 구축]</strong> Hotceleb
 date: 2018-07-24T14:37:44.000Z
 categories: update
 ---
