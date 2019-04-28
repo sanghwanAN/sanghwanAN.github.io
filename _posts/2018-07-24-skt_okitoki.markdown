@@ -1,6 +1,6 @@
 ---
 layout: post
-title: <strong>[모바일, PC 사이트 제작]</strong> Skt Okidoki
+title: <strong>[모바일, PC 사이트]</strong> Skt Okidoki
 date: 2018-07-24T14:37:44.000Z
 categories: update
 ---

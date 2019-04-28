@@ -1,6 +1,6 @@
 ---
 layout: post
-title: <strong>[관리자 페이지 제작]</strong> Travelmate
+title: <strong>[관리자 페이지]</strong> Travelmate
 date: 2018-05-24T14:37:44.000Z
 categories: update
 ---
