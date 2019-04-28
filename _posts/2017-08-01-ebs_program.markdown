@@ -1,6 +1,6 @@
 ---
 layout: post
-title: <strong>[반응형 스킨 제작]</strong> EBS 프로그램 사이트
+title: <strong>[반응형 스킨]</strong> EBS 프로그램
 date: 2017-08-01T14:37:44.000Z
 categories: update
 ---
