@@ -3163,4 +3163,24 @@
 
  	.cms-editor-active .editor-link {
  		display: inline-block;
- 	}
+	 }
+	
+	 article h2 a{
+		display: block;
+		padding-bottom: 10px;
+	}
+	article h2 a strong {
+		font-weight: bold;
+	}
+	 @media screen and (min-width: 760px) {
+	 article h2 {
+		margin-bottom:10px;
+		font-size: 20px
+	 }
+	 section h1 {
+		 font-size:26px
+	 }
+	 section h1 strong {
+		 font-weight: bold;
+	 }
+	}
