@@ -3165,26 +3165,30 @@
  		display: inline-block;
 	 }
 	
-    /* 2019-04-28 추가*/
+	/* 2019-04-28 추가*/
 	body h1, body h2 {
 		font-family: '맑은 고딕','Malgun Gothic';
 	}
-	 article h2 a{
+	article h2 a{
 		display: block;
 		padding-bottom: 10px;
 	}
 	article h2 a strong {
 		color: #000;
 	}
-	 @media screen and (min-width: 760px) {
-	 article h2 {
-		margin-bottom:10px;
-		font-size: 20px
-	 }
-	 section h1 {
-		 font-size:26px
-	 }
-	 section h1 strong {
-		color: #000;
-	 }
+	.skil-text {
+		padding: 0 5px;
+		color:#f37510;
+	}
+	@media screen and (min-width: 760px) {
+		article h2 {
+			margin-bottom:10px;
+			font-size: 20px;
+		}
+		section h1 {
+			font-size:26px;
+		}
+		section h1 strong {
+			color: #000;
+		}
 	}

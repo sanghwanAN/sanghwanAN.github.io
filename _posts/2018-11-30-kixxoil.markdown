@@ -10,7 +10,7 @@ categories: update
 
 Role : 서브페이지 코딩
 
-Technology Used : 반응형 웹, Web standard, Cross Browsing, HTML5, CSS/CSS3, JavaScript, jQuery, sass, gulp
+Technology Used : <span class="skil-text">#반응형 웹</span>, <span class="skil-text">#sass</span>, <span class="skil-text">#gulp</span>,<span class="skil-text">#웹 표준</span>, <span class="skil-text">#Cross Browsing</span>, <span class="skil-text">#jQuery</span>
 
 Date :  2018.08 ~ 2018.10
 

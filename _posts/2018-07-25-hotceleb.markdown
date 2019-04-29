@@ -10,7 +10,7 @@ categories: update
 
 Role : Web standard, Cross Browsing, app ,sass
 
-Technology Used : HTML5, CSS/CSS3, JavaScript, jQuery, sass, gulp
+Technology Used : <span class="skil-text">#sass</span>, <span class="skil-text">#gulp</span>, <span class="skil-text">#HTML5/CSS3</span>, <span class="skil-text">#jQuery</span>
 
 Date :  2018.01 ~ 2018.06
 

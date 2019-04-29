@@ -10,7 +10,7 @@ categories: update
 
 Role : 프론트 페이지 전체 코딩
 
-Technology Used : 반응형 웹, html5, css3, sass, git
+Technology Used : <span class="skil-text">#반응형 웹</span>, <span class="skil-text">#sass</span>, <span class="skil-text">#git</span>
 
 계약기간 :  2019.1.28 ~ 2019.3.30 
 

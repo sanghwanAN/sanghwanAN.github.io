@@ -10,7 +10,8 @@ categories: update
 
 Role : 관리자 페이지 (전체) 담당 및 프론트 페이지 일부 지원
 
-Technology Used : 반응형 웹, Web standard, 웹접근성, Cross Browsing, HTML5, CSS/CSS3, JavaScript, jQuery, sass
+Technology Used : <span class="skil-text">#반응형 웹</span>, <span class="skil-text">#sass</span>, <span class="skil-text">#웹 표준</span>, <span class="skil-text">#Cross Browsing</span>, <span class="skil-text">#jQuery</span>
+
 
 계약기간 :  2018.11.26 ~ 2018.1.10 (투입일이 일주일씩 미뤄짐에 따라 종료일도 일주일 연기됨)
 
