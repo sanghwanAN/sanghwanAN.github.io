@@ -12,9 +12,7 @@ Role : 관리자 페이지 (전체) 담당 및 프론트 페이지 일부 지원
 
 Technology Used : <span class="skil-text">#반응형 웹</span>, <span class="skil-text">#sass</span>, <span class="skil-text">#웹 표준</span>, <span class="skil-text">#Cross Browsing</span>, <span class="skil-text">#jQuery</span>
 
-
 계약기간 :  2018.11.26 ~ 2018.1.10 (투입일이 일주일씩 미뤄짐에 따라 종료일도 일주일 연기됨)
-
 
 회사 퇴사 후 첫 프리랜서 로 참여한 프로젝트 입니다.
 퍼블리셔는 퍼블리셔 PL, 저 이렇게 2명이 투입 되었으며, 저는 1.5개월 계약 되었으며 다른 한분이 오픈일까지 있는 일정이였습니다
