@@ -1,0 +1,28 @@
+---
+layout: post
+title: <strong>[반응형 구축]</strong> 가상화폐 p2p 사이트
+date: 2019-03-25T10:37:44.000Z
+categories: update
+---
+
+<img src="/images/fulls/carrotins.jpg" class="fit image"> 
+사이트 바로가기 :   <a href="https://www.carrotins.com/" target="blank" class="go_link" ></a>
+
+Role : 퍼마일 자동차 보험 메뉴 퍼블리싱(PC, 모바일), 이벤트 페이지 반응형 코딩, 모바일 메인 리뉴얼 코딩 진행중
+
+Technology Used : <span class="skil-text">#반응형 웹</span>, <span class="skil-text">#sass</span>, <span class="skil-text">#git</span>, <span class="skil-text">#react</span>, <span class="skil-text">#웹표준</span>
+
+계약기간 :  2020.1.15 ~ 2020.3.31 
+
+seed라는 가상화폐의 p2p거래소 반응형 사이트 구축 프로젝트였고, 
+프로젝트가 시작하고 5,6개월이 정도 되었을 때 제가 교체 투입 되었습니다.
+
+프로젝트 개발 환경은 node와 react.js로 개발이 되어져 있어서 처음 접하는 프로젝트였고,
+화면 코딩은 jsx로 큰 덩어리에 컴포넌트를 만들어 개발자에게 전달 하면 개발자가 알아서 컴포넌트를 다시 만들어서 작업 하는식으로 진행 하였습니다.
+
+그리고 저에게 인수인계를 한 퍼블리셔가 부트스트랩 sass를 가져와 수정을 하면서 사용을 하였는데, mixin 한 소스들이 한 파일에 없어서 수정 할 때 마다 scss 파일을 다 찾아야 하는 번거로움이 있었고,
+반응형인 사이트인데 pc 화면과 모바일 화면에서의 스타일을 같게 적용한 것들이 많아 그부분을 새로 수정 하면서 병행 하여 일정 대로 페이지를 코딩 하면서 프로젝트를 진행 하였습니다.
+
+
+
+
