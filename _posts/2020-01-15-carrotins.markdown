@@ -8,7 +8,7 @@ categories: update
 <img src="/images/fulls/carrotins.jpg" class="fit image"> 
 사이트 바로가기 :   <a href="https://www.carrotins.com/" target="blank" class="go_link" >Carrot 보험</a>, <a href="https://www.carrotins.com/common/event/unpack/" target="blank" class="go_link" >Unpack</a>
 
-Role : 안정화 작업 - 퍼마일 자동차 보험 퍼블리싱(PC, 모바일), 이벤트(반응형) 코딩, 모바일 메인 코딩
+Role : 안정화 작업 - 모바일 메인 코딩, 퍼마일 자동차 보험 퍼블리싱(PC, 모바일), 이벤트(반응형) 코딩, 
 
 Technology Used : <span class="skil-text">#react</span>, <span class="skil-text">#sass</span>, <span class="skil-text">#git</span>, <span class="skil-text">#웹표준</span>
 
