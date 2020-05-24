@@ -2911,13 +2911,27 @@
 				width: 100%;
 			}
 
-				#header h1 {
-					font-size: 1.75em;
-				}
-
-					#header h1 br {
-						display: inline;
-					}
+			#header h1 {
+				font-size: 1.75em;
+			}	
+			#header h1 a{
+				display:inline-block;
+				font-size:29px;
+				color:#fff;
+				margin-bottom:24px;
+			}
+			#header .editable-desc {
+				color:#fff;
+				font-size:19px;
+			}
+			#header h1 br {
+				display: inline;
+			}
+			article h2 a {
+				font-size:20px;
+				font-weight:bold;
+				color:#000;
+			}
 
 		/* Footer */
 
