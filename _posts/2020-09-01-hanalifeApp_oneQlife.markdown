@@ -8,7 +8,7 @@ categories: update
 <img src="/images/fulls/hanalife_oneQ.jpg" class="fit image"> 
 사이트 바로가기 :   <a href="https://play.google.com/store/apps/details?id=kr.co.hanalife.hanalife" target="blank" class="go_link" >하나라이프 app</a>, 
 
-Role : 하나라이프 하이브리드 앱 - 원큐라이프(보험진단, 건강검진, 통합연금조회, 보험계약대출) 화면 퍼블리싱 
+Role : 하나라이프 하이브리드 앱 - 원큐라이프(건강검진, 통합연금조회, 보험계약대출) 화면 퍼블리싱 
 
 Technology Used :  <span class="skil-text">#웹표준</span>, <span class="skil-text">모바일 코딩</span>,
 
