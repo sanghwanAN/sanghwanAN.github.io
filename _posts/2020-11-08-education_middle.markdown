@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 개발 진행중이라서 프로젝트명 비공개 
+title: 교육 학습 app (개발 진행중이라서 프로젝트명 비공개) 
 date: 2020-11-08T10:37:44.000Z
 categories: update
 ---
