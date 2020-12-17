@@ -1,6 +1,6 @@
 ---
 layout: post
-title: <strong>React 프로젝트</strong> Carrot 보험 
+title: <strong>[React]</strong> Carrot 보험 
 date: 2020-02-29T10:37:44.000Z
 categories: update
 ---
