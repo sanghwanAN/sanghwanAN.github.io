@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  <strong>[react]</strong> 웅진 스마트올 중학
+title:  <strong>[react]</strong> 웅진 태블릿 학습 app
 date: 2020-11-08T10:37:44.000Z
 categories: update
 ---
