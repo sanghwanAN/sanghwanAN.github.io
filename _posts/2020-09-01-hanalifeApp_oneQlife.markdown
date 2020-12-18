@@ -1,6 +1,6 @@
 ---
 layout: post
-title: <strong>[모바일]</strong> 하나생명 App - 원큐라이프 카테고리 퍼블리싱 
+title: <strong>[모바일]</strong> 하나생명 원큐라이프 App
 date: 2020-09-01T10:37:44.000Z
 categories: update
 ---
