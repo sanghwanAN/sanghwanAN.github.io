@@ -6,7 +6,7 @@ categories: update
 ---
 
 <img src="/images/fulls/travelMate_admin.jpg" class="fit image">
-사이트 바로가기 :   <a href="#" title="비공개입니다." target="blank" class="go_link">Travelmate admin guide</a>
+<!-- 사이트 바로가기 :   <a href="#" title="비공개입니다." target="blank" class="go_link">Travelmate admin guide</a> -->
 
 Role : Web standard, Cross Browsing
 
